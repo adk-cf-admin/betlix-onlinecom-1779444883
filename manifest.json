@@ -1,0 +1,19 @@
+{
+  "name": "Betlix",
+  "short_name": "Betlix",
+  "theme_color": "",
+  "background_color": "#081521",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1779444334-favicon-2026-05-22t125021721.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
